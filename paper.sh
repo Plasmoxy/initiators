@@ -1,0 +1,1 @@
+papermill --log-output -k alpha_kernel strana_torch.ipynb out.ipynb 2>&1 | tee log.txt
